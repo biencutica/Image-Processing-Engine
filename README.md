@@ -1,5 +1,5 @@
-~Image Processing Program~
-loads plain-text (ASCII) files
+IMAGE PROCESSING PROGRAM
+(loads plain-text (ASCII) files)
 
 EDITING FEATURES:
   -toggle brightness, contrast & gamma;
