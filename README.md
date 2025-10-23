@@ -18,7 +18,7 @@ This project was built without external image libraries to demonstrate core C++ 
 
 -- Gamma Correction: Apply non-linear gamma correction.
 
--- 2D Convolution: Apply custom kernels (e.g., blur, sharpen, edge detection) using a 2D convolution algorithm.
+-- 2D Convolution: Apply custom kernels using a 2D convolution algorithm.
 
 ### Drawing Module
 
