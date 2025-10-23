@@ -1,7 +1,7 @@
-#IMAGE PROCESSING PROGRAM
+# IMAGE PROCESSING ENGINE
 (loads plain-text (ASCII) files)
 
-EDITING FEATURES:
+## EDITING FEATURES:
   -toggle brightness, contrast & gamma;
   -apply convolution;
   -draw shapes: circle, line, rectangle, square.
